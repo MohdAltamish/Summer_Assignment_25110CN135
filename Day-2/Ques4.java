@@ -1,4 +1,4 @@
-
+// Write a program to Check whether a number is palindrome.
 import java.util.Scanner;
 
 public class Ques4 {
